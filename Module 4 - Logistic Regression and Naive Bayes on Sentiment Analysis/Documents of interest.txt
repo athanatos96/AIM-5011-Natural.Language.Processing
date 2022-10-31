@@ -1,0 +1,12 @@
+Input data: https://www.kaggle.com/snap/amazon-fine-food-reviews?select=Reviews.csv
+
+https://monkeylearn.com/blog/definitive-guide-natural-language-processing/
+https://monkeylearn.com/blog/what-is-tf-idf/
+
+NLP using TF-IDF:
+https://towardsdatascience.com/natural-language-processing-feature-engineering-using-tf-idf-e8b9d00e7e76
+
+Word Clouds: 
+https://medium.com/@harinisureshla/wordclouds-basics-of-nlp-5b60be226414
+
+
